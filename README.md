@@ -8,6 +8,10 @@ The app uses a local REST API backend to handle all data interactions, ensuring 
 - User Authentication & Authorization (login/register)
 - Income Management (Add, View, Update, Delete)
 - Expense Management (Add, View, Update, Delete)
+- Budget Analytics & Reports
+- Smart Notifications & Alerts
+- Savings Goals Management
+- Localization Support
 - Fully Offline Functionality (no internet required)
 - Local REST API backend
 - Widget, Unit, and Integration Testing
