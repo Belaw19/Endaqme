@@ -29,6 +29,7 @@ The app uses a local REST API backend to handle all data interactions, ensuring 
 ## Project Structure
 endaqme/
 ├── lib/            # Flutter app source code
+
 │   ├── screens/    # UI screens
 │   ├── models/     # Data models
 │   ├── services/   # API / backend services
