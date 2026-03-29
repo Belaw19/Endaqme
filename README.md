@@ -18,5 +18,20 @@ The app uses a local REST API backend to handle all data interactions, ensuring 
 | Beimnet Abdi  | UGR/8524/16      |
 | Kebron Gizachew  | UGR/2666/16      |
 | Kidus Girma  | UGR/7576/16     |
-| Tsedeniya  | UGR/XXXX/YY      |
+| Tsedeniya Fiseha| UGR/9263/16      |
 | Zenebu Melaku  | UGR/6058/16      |
+
+## Tech Stack
+•	Flutter – UI framework
+•	Dart – Programming language
+•	Hive / SQLite – Local database storage
+
+## Project Structure
+endaqme/
+├── lib/            # Flutter app source code
+│   ├── screens/    # UI screens
+│   ├── models/     # Data models
+│   ├── services/   # API / backend services
+│   └── widgets/    # Reusable widgets
+├── test/           # Unit, widget, integration tests
+└── README.md       # Project description
