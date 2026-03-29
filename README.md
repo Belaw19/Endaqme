@@ -35,3 +35,5 @@ endaqme/
 │   └── widgets/    # Reusable widgets
 ├── test/           # Unit, widget, integration tests
 └── README.md       # Project description
+├── test/           # Unit, widget, integration tests
+└── README.md       # Project description
