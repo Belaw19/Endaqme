@@ -22,9 +22,9 @@ The app uses a local REST API backend to handle all data interactions, ensuring 
 | Zenebu Melaku  | UGR/6058/16      |
 
 ## Tech Stack
-•	Flutter – UI framework
-•	Dart – Programming language
-•	Hive / SQLite – Local database storage
+###	Flutter – UI framework
+###	Dart – Programming language
+###	Hive / SQLite – Local database storage
 
 ## Project Structure
 endaqme/
