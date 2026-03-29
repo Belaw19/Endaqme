@@ -28,6 +28,6 @@ The app uses a local REST API backend to handle all data interactions, ensuring 
 ## Tech Stack
 ###	Flutter – UI framework
 ###	Dart – Programming language
-###	Hive / SQLite – Local database storage
+###	SQLite – Local database storage
 
 
