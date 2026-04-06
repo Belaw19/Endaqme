@@ -1,20 +1,20 @@
-# Endaqme – Offline Budget Tracker
+# Zewg – Student Opportunities Hub
 
-Endaqme is a Flutter-based budget tracking application designed to help users manage their personal finances efficiently, completely offline. The app provides secure authentication and authorization for multiple users and allows full CRUD (Create, Read, Update, Delete) operations for two core business features: managing income and expenses.
+Zewg is a Flutter-based mobile application designed to help students discover, track, and manage job and scholarship opportunities efficiently, completely offline. The app provides secure authentication and role-based access for multiple users and allows full CRUD (Create, Read, Update, Delete) operations for two core business features: managing job opportunities and scholarship opportunities.
 
 The app uses a local REST API backend to handle all data interactions, ensuring all information is stored securely on the user’s device. It also includes comprehensive widget, unit, and integration testing to ensure reliability and performance.
 
+Note on the name: “Zewg” (ዘውግ) in Amharic means “connection” or “linking things together,” making it a culturally meaningful name for an app that connects students with academic and career opportunities.
 ## Features
-- User Authentication & Authorization (login/register)
-- Income Management (Add, View, Update, Delete)
-- Expense Management (Add, View, Update, Delete)
-- Budget Analytics & Reports
-- Smart Notifications & Alerts
-- Savings Goals Management
-- Localization Support
-- Fully Offline Functionality (no internet required)
-- Local REST API backend
-- Widget, Unit, and Integration Testing
+- Authentication & Authorization – Role-based login for Admin and Student
+- Job Management (CRUD) – Admin can create, update, delete, and view job posts
+- Scholarship Management (CRUD) – Admin can manage scholarship posts similarly
+- Opportunity Tracking – Students can browse, filter, favorite, and mark opportunities as Done
+- Admin Dashboard – Track total posts, total users, and popular opportunities
+- Offline Functionality – All data stored locally; no internet required
+- Notifications & Alerts – Remind students of expiring opportunities
+- Local REST API Backend – Handles all CRUD and authentication locally
+- Testing – Widget, unit, and integration tests for reliability
 
 ## Team Members
 | Full Name | ID (UGR/XXXX/YY) |
