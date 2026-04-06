@@ -1,10 +1,10 @@
-# Zewg – Student Opportunities Hub
+# Zewg (ዘውግ) – Student Opportunities Hub
 
 Zewg is a Flutter-based mobile application designed to help students discover, track, and manage job and scholarship opportunities efficiently, completely offline. The app provides secure authentication and role-based access for multiple users and allows full CRUD (Create, Read, Update, Delete) operations for two core business features: managing job opportunities and scholarship opportunities.
 
 The app uses a local REST API backend to handle all data interactions, ensuring all information is stored securely on the user’s device. It also includes comprehensive widget, unit, and integration testing to ensure reliability and performance.
 
-Note on the name: “Zewg” (ዘውግ) in Amharic literally means “type” or “category.” This app connects students with opportunities based on their category, such as Jobs or Scholarships, making it easier to find and manage relevant options offline.
+Zewg (ዘውግ) in Amharic means “connection based on category.” The app connects students with relevant opportunities by organizing them into categories, such as Jobs and Scholarships, making it easier to discover, track, and manage them offline.
 ## Features
 - Authentication & Authorization – Role-based login for Admin and Student
 - Job Management (CRUD) – Admin can create, update, delete, and view job posts
