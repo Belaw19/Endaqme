@@ -4,7 +4,7 @@ Zewg is a Flutter-based mobile application designed to help students discover, t
 
 The app uses a local REST API backend to handle all data interactions, ensuring all information is stored securely on the user’s device. It also includes comprehensive widget, unit, and integration testing to ensure reliability and performance.
 
-Note on the name: “Zewg” (ዘውግ) in Amharic means “connection” or “linking things together,” making it a culturally meaningful name for an app that connects students with academic and career opportunities.
+Note on the name: “Zewg” (ዘውግ) in Amharic literally means “type” or “category.” This app connects students with opportunities based on their category, such as Jobs or Scholarships, making it easier to find and manage relevant options offline.
 ## Features
 - Authentication & Authorization – Role-based login for Admin and Student
 - Job Management (CRUD) – Admin can create, update, delete, and view job posts
